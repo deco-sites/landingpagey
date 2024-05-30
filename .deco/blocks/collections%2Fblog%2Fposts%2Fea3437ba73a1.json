@@ -1,0 +1,13 @@
+{
+  "name": "collections/blog/posts/ea3437ba73a1",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [],
+    "categories": [],
+    "title": "Hello, World!",
+    "date": "2024-05-30",
+    "slug": "hello-world",
+    "content": "<p>This is a test.</p>",
+    "excerpt": "Just testing."
+  }
+}
